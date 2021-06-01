@@ -1,0 +1,1 @@
+This folder contains parts of code and functions that can be used in other code. 
